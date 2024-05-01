@@ -1,2 +1,3 @@
-# hackerrank-js-ts
-https://www.hackerrank.com/interview/interview-preparation-kit
+# coding-exercices
+
+This repository aims to have the resolution for some coding exercies
